@@ -21,8 +21,6 @@ By the end of this handbook, you'll have built a **fully functional Weather App*
 
 ### ✨ What You'll Learn
 
-### ✨ What You'll Learn
-
 - ✅ Master Kotlin programming fundamentals
 - ✅ Understand Android architecture and components
 - ✅ Build modern UIs with Jetpack Compose
